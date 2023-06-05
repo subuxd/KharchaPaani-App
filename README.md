@@ -1,6 +1,6 @@
 # KharchaPaani App
 
-Welcome to the KharchaPaani App repository! This repository contains the source code for a simple expense tracker application. The app is designed to help users track their expenses and manage their finances efficiently.
+Welcome to the KharchaPaani App repository! This repository contains the source code for a simple expense tracker application powered by blockchain technology. The app is designed to help users track their expenses and manage their finances efficiently in a decentralized and secure manner.
 
 ## Features
 
@@ -8,27 +8,17 @@ Welcome to the KharchaPaani App repository! This repository contains the source 
 - **Budget Management**: The app allows users to set budgets for different expense categories, helping them stay within their financial limits.
 - **Secure and Private**: KharchaPaani App takes user privacy seriously and ensures that all financial data is securely stored and encrypted.
 
-## Getting Started
+![App Screenshot](./screenshot.jpeg)
 
-To get started with the KharchaPaani App, follow these steps:
 
-1. **Clone the repository**: Use the following command to clone this repository to your local machine: 
+
+
+**Clone the repository**: Use the following command to clone this repository to your local machine: 
    ```bash
    git clone https://github.com/subuxd/KharchaPaani-App.git
    ```
 
-2. **Install Dependencies**: Navigate to the cloned repository and install the necessary dependencies using the package manager of your choice. For example, if you're using npm, run: 
-```bash
-npm install
-```
-
-3. **Run the Application**: After the dependencies are installed, you can start the application by running the following command: 
-```bash
-npm start
-```
-
-4. **Access the App**: Once the application is running, you can access it by opening a web browser and navigating to `http://localhost:3000`.
-
+**Access the App Here**:   [KharchaPaani App](https://mykharchapaani.netlify.app/). 
 
 ## License
 
