@@ -23,7 +23,7 @@ Welcome to the KharchaPaani App repository! This repository contains the source 
    git clone https://github.com/subuxd/KharchaPaani-App.git
    ```
 
-**Access the App Here**:   [KharchaPaani App](https://mykharchapaani.netlify.app/). 
+**Access the App Here**:   [KharchaPaani App](https://mykharchapaani.netlify.app/) 🚀. 
 
 ## License
 
