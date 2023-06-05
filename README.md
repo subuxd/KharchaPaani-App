@@ -3,7 +3,7 @@
 Welcome to the KharchaPaani App repository! This repository contains the source code for a simple expense tracker application powered by blockchain technology. The app is designed to help users track their expenses and manage their finances efficiently in a decentralized and secured manner.
 
 
-![Our Web App](https://i.imgur.com/KiixJte.jpeg)
+
 
 
 ## Features
@@ -13,7 +13,7 @@ Welcome to the KharchaPaani App repository! This repository contains the source 
 - **Secure and Private**: KharchaPaani App takes user privacy seriously and ensures that all financial data is securely stored and encrypted.
 
 
-
+![Our Web App](https://i.imgur.com/KiixJte.jpeg)
 
 
 
