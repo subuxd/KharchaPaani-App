@@ -8,7 +8,7 @@ Welcome to the KharchaPaani App repository! This repository contains the source 
 - **Budget Management**: The app allows users to set budgets for different expense categories, helping them stay within their financial limits.
 - **Secure and Private**: KharchaPaani App takes user privacy seriously and ensures that all financial data is securely stored and encrypted.
 
-![App Screenshot](./screenshot.jpeg)
+![App Screenshot](./screenshot.png)
 
 
 
